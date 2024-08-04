@@ -1,4 +1,5 @@
 # proyecto_int
+Ana Carolina Rodrigues de Almeida
 Proyecto Integrador M5 Data Science PT10
 Consigna:
 Videojuegos
